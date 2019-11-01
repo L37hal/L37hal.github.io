@@ -1,1 +1,1 @@
-# <https://L37hal.github.io>
+# <L37hal.github.io>
